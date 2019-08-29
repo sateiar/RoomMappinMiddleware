@@ -1,0 +1,84 @@
+[
+  {
+    "bed" : "single",
+    "person" : 1
+  },
+  {
+    "bed" : "double",
+    "person" : 2
+  },
+  {
+    "bed" : "king",
+    "person" : 2
+  },
+  {
+    "bed" : "queen",
+    "person" : 2
+  },
+  {
+    "bed" : "twin",
+    "person" : 2
+  },
+  {
+    "bed" : "futon",
+    "person" : 1
+  },
+  {
+    "bed" : "quad",
+    "person" : 4
+  },
+  {
+    "bed" : "double/twin",
+    "person" : 2
+  },
+  {
+    "bed" : "triple",
+    "person" : 3
+  },
+  {
+    "bed": "tatami",
+    "person": 1
+  },
+  {
+    "bed": "futon",
+    "person": 1
+  },
+  {
+    "bed": "rollaway",
+    "person": 1
+  },
+  {
+    "bed": "bunk",
+    "person": 1
+  },
+  {
+    "bed": "femalecapsule",
+    "person": 1
+  },
+  {
+    "bed": "malecapsule",
+    "person": 1
+  },
+  {
+    "bed": "semidouble",
+    "person": 1
+  },
+  {
+    "bed": "capsule",
+    "person": 1
+  }
+  ,
+  {
+    "bed": "full",
+    "person": 2
+  }
+    ,
+  {
+    "bed": "twinxl",
+    "person": 2
+  },
+  {
+    "bed": "semidouble",
+    "person": 1
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": [
+      "villa"
+    ],
+    "accommodate": "Apartment",
+    "value": 2300,
+    "title": "Villa"
+  },
+  {
+    "name": [
+      "residence"
+    ],
+    "accommodate": "Apartment",
+    "value": 2350,
+    "title": "Residence"
+  },
+  {
+    "name": [
+      "studio"
+    ],
+    "accommodate": "Apartment",
+    "value": 2390,
+    "title": "Studio"
+  },
+  {
+    "name": [
+      "apartment"
+    ],
+    "accommodate": "Apartment",
+    "value": 2400,
+    "title": "Apartment"
+  },
+  {
+    "name": [
+      "apt"
+    ],
+    "accommodate": "Apartment",
+    "value": 2400,
+    "title": "Apartment"
+  },
+  {
+    "name": [
+      "condo"
+    ],
+    "accommodate": "Apartment",
+    "value": 2400,
+    "title": "Condo"
+  },
+  {
+    "name": [
+      "capsule"
+    ],
+    "value": 2450,
+    "accommodate": "Hostel",
+    "title": "Capsule"
+  },
+  {
+    "name": [
+      "dorm"
+    ],
+    "value": 2450,
+    "accommodate": "Hostel",
+    "title": "Dormitory"
+  },
+  {
+    "name": [
+      "dormitory"
+    ],
+    "value": 2450,
+    "accommodate": "Hostel",
+    "title": "Dormitory"
+  },
+  {
+    "name": [
+      "share"
+    ],
+    "value": 2450,
+    "accommodate": "Hostel",
+    "title": "Hostel"
+  },
+  {
+    "name": [
+      "shared"
+    ],
+    "value": 2450,
+    "accommodate": "Hostel",
+    "title": "Hostel"
+  },
+  {
+    "name": [
+      "penthouse"
+    ],
+    "accommodate": "Apartment",
+    "value": 2600,
+    "title": "Penthouse"
+  }
+]

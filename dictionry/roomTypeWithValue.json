@@ -1,0 +1,385 @@
+[
+  {
+    "name": [
+      "japanese"
+    ],
+    "value": 10,
+    "title": "Japanese"
+  },
+  {
+    "name": [
+      "wonderful"
+    ],
+    "value": 20,
+    "title": "Wonderful"
+  },
+  {
+    "name": [
+      "spectacular"
+    ],
+    "value": 30,
+    "title": "Spectacular"
+  },
+  {
+    "name": [
+      "crown"
+    ],
+    "value": 31,
+    "title": "Crown"
+  },
+  {
+    "name": [
+      "royal"
+    ],
+    "value": 32,
+    "title": "Royal"
+  },
+  {
+    "name": [
+      "mega"
+    ],
+    "value": 40,
+    "title": "Mega"
+  },
+  {
+    "name": [
+      "marvelous"
+    ],
+    "value": 50,
+    "title": "Marvelous"
+  },
+  {
+    "name": [
+      "cool",
+      "corner"
+    ],
+    "value": 60,
+    "title": "Cool Corner"
+  },
+  {
+    "name": [
+      "wow"
+    ],
+    "value": 70,
+    "title": "WOW"
+  },
+  {
+    "name": [
+      "extreme"
+    ],
+    "value": 80,
+    "title": "Extreme"
+  },
+  {
+    "name": [
+      "clover"
+    ],
+    "value": 90,
+    "title": "Clover"
+  },
+  {
+    "name": [
+      "attic"
+    ],
+    "value": 100,
+    "title": "Attic"
+  },
+  {
+    "name": [
+      "urban"
+    ],
+    "value": 110,
+    "title": "Urban"
+  },
+  {
+    "name": [
+      "classic"
+    ],
+    "value": 120,
+    "title": "Classic"
+  },
+  {
+    "name": [
+      "grand"
+    ],
+    "value": 130,
+    "title": "Grand"
+  },
+  {
+    "name": [
+      "plus"
+    ],
+    "value": 150,
+    "title": "Plus"
+  },
+  {
+    "name": [
+      "vip"
+    ],
+    "value": 160,
+    "title": "Vip"
+  },
+  {
+    "name": [
+      "business"
+    ],
+    "value": 170,
+    "title": "Business"
+  },
+  {
+    "name": [
+      "family"
+    ],
+    "value": 180,
+    "title": "Family"
+  },
+  {
+    "name": [
+      "economic"
+    ],
+    "value": 190,
+    "title": "Economic"
+  },
+  {
+    "name": [
+      "economy"
+    ],
+    "value": 200,
+    "title": "Economy"
+  },
+  {
+    "name": [
+      "junior"
+    ],
+    "value": 210,
+    "title": "Junior"
+  },
+  {
+    "name": [
+      "presidential"
+    ],
+    "value": 220,
+    "title": "Presidential"
+  },
+  {
+    "name": [
+      "luxury"
+    ],
+    "value": 230,
+    "title": "Luxury"
+  },
+  {
+    "name": [
+      "lifestyle"
+    ],
+    "value": 235,
+    "title": "Standard"
+  },
+  {
+    "name": [
+      "standard"
+    ],
+    "value": 240,
+    "title": "Standard"
+  },
+  {
+    "name": [
+      "premium"
+    ],
+    "value": 260,
+    "title": "Premium"
+  },
+  {
+    "name": [
+      "premier"
+    ],
+    "value": 265,
+    "title": "Premier"
+  },
+  {
+    "name": [
+      "executive"
+    ],
+    "value": 270,
+    "title": "Executive"
+  },
+  {
+    "name": [
+      "superior"
+    ],
+    "value": 280,
+    "title": "Superior"
+  },
+  {
+    "name": [
+      "supreme"
+    ],
+    "value": 280,
+    "title": "Superior"
+  },
+  {
+    "name": [
+      "club"
+    ],
+    "value": 290,
+    "title": "Club"
+  },
+  {
+    "name": [
+      "private",
+      "room"
+    ],
+    "value": 310,
+    "title": "Private"
+  },
+  {
+    "name": [
+      "deluxe"
+    ],
+    "value": 300,
+    "title": "Deluxe"
+  },
+  {
+    "name": [
+      "de",
+      "luxe"
+    ],
+    "value": 300,
+    "title": "Deluxe"
+  },
+  {
+    "name": [
+      "double",
+      "room"
+    ],
+    "value": 310,
+    "title": "Double Room"
+  },
+  {
+    "name": [
+      "terrace"
+    ],
+    "value": 320,
+    "title": "Terrace"
+  },
+  {
+    "name": [
+      "duplex"
+    ],
+    "value": 330,
+    "title": "Duplex"
+  },
+  {
+    "name": [
+      "ryokan"
+    ],
+    "value": 350,
+    "title": "Ryokan"
+  },
+  {
+    "name": [
+      "guest",
+      "room"
+    ],
+    "value": 360,
+    "title": "Guest Room"
+  },
+  {
+    "name": [
+      "guestroom"
+    ],
+    "value": 360,
+    "title": "Guest Room"
+  },
+  {
+    "name": [
+      "capsule"
+    ],
+    "value": 365,
+    "title": "Capsule"
+  },
+  {
+    "name": [
+      "villa"
+    ],
+    "value": 370,
+    "title": "Villa"
+  },
+  {
+    "name": [
+      "residence"
+    ],
+    "value": 380,
+    "title": "Residence"
+  },
+  {
+    "name": [
+      "condo"
+    ],
+    "value": 385,
+    "title": "Condo"
+  },
+  {
+    "name": [
+      "dorm"
+    ],
+    "value": 390,
+    "title": "Dormitory"
+  },
+  {
+    "name": [
+      "dormitory"
+    ],
+    "value": 390,
+    "title": "Dormitory"
+  },
+  {
+    "name": [
+      "share"
+    ],
+    "value": 390,
+    "title": "Dormitory"
+  },
+  {
+    "name": [
+      "shared"
+    ],
+    "value": 390,
+    "title": "Dormitory"
+  },
+  {
+    "name": [
+      "penthouse"
+    ],
+    "value": 400,
+    "title": "Penthouse"
+  },
+  {
+    "name": [
+      "suite"
+    ],
+    "value": 410,
+    "title": "Suite"
+  },
+  {
+    "name": [
+      "studio"
+    ],
+    "value": 420,
+    "title": "Studio"
+  },
+  {
+    "name": [
+      "apartment"
+    ],
+    "value": 430,
+    "title": "Apartment"
+  },
+  {
+    "name": [
+      "apt"
+    ],
+    "value": 430,
+    "title": "Apartment"
+  }
+]
